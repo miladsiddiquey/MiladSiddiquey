@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milad Siddiquey</h1>
 <h3 align="center">frontend developer</h3>
 
-<img align='right' src=https://i.ibb.co/88hQgP0/Work-Create-GIF-by-Drum-Machin-unscreen.gif width="200">
+<img align='right' src=https://i.ibb.co/88hQgP0/Work-Create-GIF-by-Drum-Machin-unscreen.gif width="180" >
 
 - ❤️ I Love Programming 😍
 - 🌱 I’m currently learning ... everything 🤣
