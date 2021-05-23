@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Milad Siddiquey</h1>
 <h3 align="center">frontend developer</h3>
 
-❤️ I Love Javascript 😍
-🌱 I’m currently learning ... everything 🤣
-😎 Programming Is My Passion 🙃
-⚡ Fun fact Love to travel on vacation 🥰
-
+- 🌱 I’m currently learning ... everything 🤣
+- ❤️ Technology Is My Love 😍
+- 😎 Programming Is My Passion 🙃
+- ⚔  Keyboard Is MY Weapon 😏
+- 🥰 Perfection Is My Habit 🌍
+- ⚡ Fun fact: ... Love to travel on vacation 🥰
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
